@@ -1,1 +1,5 @@
 echo "ALX Scholl is so cool!"
+=======
+#!/bin/bashecho "ALX"
+ALX school
+>>>>>>> update_script
